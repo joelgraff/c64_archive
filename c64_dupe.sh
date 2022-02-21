@@ -24,8 +24,6 @@ get_dir () {
 
 make_path () {
 
-	image_name="."
-
 	until [ ! -d ./$image_name ]
 	do
 		echo -e "\n\n"
@@ -53,7 +51,9 @@ make_image () {
 
 finalize () {
 
-	make_path
+	if [[ $disk_side == "A" || $image_name == "." ]]; then
+		make_path
+	fi
 
 	filename=$image_name\_$disk_side
 
@@ -101,9 +101,12 @@ main () {
 
 		if [ $disk_side == "A" ]; then
 			disk_side="B"
-			echo -e "\n\nFlip disk and press a key (q to quit)..."
-		else
+			echo -e "\n\nFlip disk and press a key - (q)uit, s(k)ip..."
+		fi
+
+		if [[ $disk_side == "B" orpa]]
 			disk_side="A"
+			image_name="."			
 			echo -e "\n\nInsert next disk and press a key (q to quit)..."
 		fi
 
