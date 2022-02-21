@@ -1,0 +1,29 @@
+74,drive not ready,00,00
+74,drive not ready,00,00
+21,read error,18,00
+74,drive not ready,00,00
+74,drive not ready,00,00
+74,drive not ready,00,00
+74,drive not ready,00,00
+0 ."shogun (c)      " vg 2a
+1    "shogun"           prg  
+1    "abcdefghij"       prg  
+1    "ladatafile"       prg  
+37   "screen"           prg   
+66   "bit 1"            prg   
+130  "bit 2"            prg    
+25   "bit 3"            prg   
+33   "bit 4"            prg   
+370 blocks free.             
+00, ok,00,00
+0 ."shogun (c)      " vg 2a
+1    "shogun"           prg  
+1    "abcdefghij"       prg  
+1    "ladatafile"       prg  
+37   "screen"           prg   
+66   "bit 1"            prg   
+130  "bit 2"            prg    
+25   "bit 3"            prg   
+33   "bit 4"            prg   
+370 blocks free.             
+00, ok,00,00
