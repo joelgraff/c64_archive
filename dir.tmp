@@ -1,2 +1,16 @@
-74,drive not ready,00,00
-74,drive not ready,00,00
+0 ."card/calc       " 30 2a
+11   "kbasic"           prg   
+12   "kbasic-vic"       prg   
+10   "card/calc-vic"    prg   
+10   "card/calc-c64"    prg   
+1    "l"                seq  
+620 blocks free.             
+00, ok,00,00
+0 ."card/calc       " 30 2a
+11   "kbasic"           prg   
+12   "kbasic-vic"       prg   
+10   "card/calc-vic"    prg   
+10   "card/calc-c64"    prg   
+1    "l"                seq  
+620 blocks free.             
+00, ok,00,00

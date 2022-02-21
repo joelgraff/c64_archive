@@ -1,0 +1,52 @@
+0 ."side 2          " up 2a
+63   "ccons"            prg   
+9    "alphanum"         prg  
+54   "lomem"            prg   
+21   "sp1"              prg   
+21   "sp2"              prg   
+21   "motorcycle"       prg   
+21   "corv"             prg   
+21   "vw"               prg   
+21   "pickup"           prg   
+21   "bluecar"          prg   
+21   "jeep"             prg   
+21   "gpi"              prg   
+21   "gpii"             prg   
+21   "moonrover"        prg   
+16   "consv"            prg   
+28   "mainmenu"         prg   
+9    "midmem"           prg  
+16   "himem"            prg   
+5    "f.ovly.3.o"       prg  
+2    "f.ovly.2.o"       prg  
+21   "cards"            prg   
+9    "conscards"        prg  
+63   "cons"             prg   
+137 blocks free.             
+00, ok,00,00
+0 ."side 2          " up 2a
+63   "ccons"            prg   
+9    "alphanum"         prg  
+54   "lomem"            prg   
+21   "sp1"              prg   
+21   "sp2"              prg   
+21   "motorcycle"       prg   
+21   "corv"             prg   
+21   "vw"               prg   
+21   "pickup"           prg   
+21   "bluecar"          prg   
+21   "jeep"             prg   
+21   "gpi"              prg   
+21   "gpii"             prg   
+21   "moonrover"        prg   
+16   "consv"            prg   
+28   "mainmenu"         prg   
+9    "midmem"           prg  
+16   "himem"            prg   
+5    "f.ovly.3.o"       prg  
+2    "f.ovly.2.o"       prg  
+21   "cards"            prg   
+9    "conscards"        prg  
+63   "cons"             prg   
+137 blocks free.             
+00, ok,00,00
